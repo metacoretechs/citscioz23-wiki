@@ -39,14 +39,14 @@ Up to you what you want to select – default usually has an NC (non-commercial)
 - [WikiSpecies](https://species.wikimedia.org/wiki/Main_Page)
 
 ### Wikidata
-**Working With Wikidata** learning module
+[Wikidata in brief](https://www.wikidata.org/wiki/Wikidata:In_one_page) by Andrew Lih
 
 #### Tools
-
-- [QuickStatements](https://tools.wmflabs.org/quickstatements/)
-- [Scholia](https://scholia.toolforge.org)
-- [Bionomia](https://bionomia.net)
-- [AuthorDisambiguator](https://author-disambiguator.toolforge.org)
+- [Mix 'n' Match](https://mix-n-match.toolforge.org) (for reconciliation)
+- [QuickStatements](https://tools.wmflabs.org/quickstatements/) (for bulk imports)
+- [Scholia](https://scholia.toolforge.org) (knowledge graph of scholarly authors and works)
+- [Bionomia](https://bionomia.net) (database of natural history specimens and collectors)
+- [AuthorDisambiguator](https://author-disambiguator.toolforge.org) (tool to convert author name strings into data item links)
 
 #### For more information
 - [Siobhan Leachman's keynote at CitSciOz23](https://citizenscience.org.au/citscioz23/#keynote-speakers)
