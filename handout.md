@@ -24,7 +24,7 @@ Wikimedia Australia acknowledges the Kabi Kabi people, on whose lands we are spe
 - [VisualEditor](https://en.wikipedia.org/wiki/Wikipedia:VisualEditor)
 
 ### Wikimedia Commons
-A collection of 100,153,563 freely usable media files to which anyone can contribute.
+A collection of 100,153,563* freely usable media files to which anyone can contribute.
 
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 
@@ -34,6 +34,9 @@ A collection of 100,153,563 freely usable media files to which anyone can contri
 3. Select default licence
 
 Up to you what you want to select – default usually has an NC (non-commercial) clause – but recommend CC-0 for observations, and CC-BY (Attribution) for photos and sounds.
+
+### WikiSpecies
+- [WikiSpecies](https://species.wikimedia.org/wiki/Main_Page)
 
 ### Wikidata
 **Working With Wikidata** learning module
